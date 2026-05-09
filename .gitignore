@@ -1,0 +1,11 @@
+build/
+dist/
+plascoy_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite
+*.db
+.DS_Store

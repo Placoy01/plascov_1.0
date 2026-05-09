@@ -1,0 +1,25 @@
+{
+  "target": "httpbin.org",
+  "timestamp": "2026-04-30T00:07:08.287755",
+  "scans": {
+    "TLS Scan": {
+      "result": "Completed",
+      "severity": "info",
+      "timestamp": "2026-04-30T00:07:08.287849"
+    },
+    "Port Scan": {
+      "result": "Completed",
+      "severity": "info",
+      "timestamp": "2026-04-30T00:07:08.287872"
+    }
+  },
+  "vulnerabilities": [],
+  "summary": {
+    "total_scans": 2,
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "info": 2
+  }
+}

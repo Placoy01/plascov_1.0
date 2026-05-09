@@ -133,9 +133,12 @@
 | `txt` | Plain text output |
 
 ---
+# install 
 ```bash
-git clone 
-
+git clone https://github.com/luanisaque3/plascov_1.0.git
+cd plascoy
+```
+---
 # 🔥 Example Advanced Commands
 
 ## Full Recon + Vulnerability Scan

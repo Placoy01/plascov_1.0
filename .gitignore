@@ -1,7 +1,6 @@
 *.pyc
 __pycache__/
 *.json
-*.txt
 *.log
 .DS_Store
 .venv/

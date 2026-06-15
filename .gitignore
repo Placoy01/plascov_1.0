@@ -1,11 +1,9 @@
-build/
-dist/
-plascoy_env/
-__pycache__/
 *.pyc
-*.pyo
-*.pyd
+__pycache__/
+*.json
+*.txt
 *.log
-*.sqlite
-*.db
 .DS_Store
+.venv/
+venv/
+env/
